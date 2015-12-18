@@ -20,7 +20,7 @@
 - сделать fork https://github.com/gitquiz/quiz, добавить *ваш* удалённый репозиторий в список remote вашего локального репозитория под именем my_remote
 - забрать изменения ветки my_remote/master с удалённого репозитория, слить её с локальной веткой master
 - отправить изменения локальный ветки master в ветку master удалённого репозитория
-- выполнить rebase branch1 с origin/master, не потеряв коммита merge master t1 
+- выполнить слияние branch1 с origin/master 
 - отправить локальную ветку branch1 в ветку another_branch_name удалённого репозитория
 - отправить pull request ветки master в https://github.com/gitquiz/quiz
 
